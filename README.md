@@ -5,6 +5,8 @@ In this I made a movie site in which I can add, edit, update or delete movies. T
 If you are trying to access it by using any Indian internet connection, I would recommend you to use a VPN server.
 
 🚀 Features:
+
+
 ✅ Using api key
 ✅ Using a search url
 ✅ Using image poster url
